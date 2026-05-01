@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 8000.0
+  },
+  {
+    "id": 2,
+    "decision": "reject",
+    "reason": "Полис неактивен",
+    "payout": 0
+  },
+  {
+    "id": 3,
+    "decision": "manual_review",
+    "reason": "Нет документов",
+    "payout": 0
+  },
+  {
+    "id": 4,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 20000.0
+  },
+  {
+    "id": 5,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 32000.0
+  },
+  {
+    "id": 6,
+    "decision": "reject",
+    "reason": "Полис неактивен",
+    "payout": 0
+  },
+  {
+    "id": 7,
+    "decision": "manual_review",
+    "reason": "Нет документов",
+    "payout": 0
+  },
+  {
+    "id": 8,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 14400.0
+  },
+  {
+    "id": 9,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 5200.0
+  },
+  {
+    "id": 10,
+    "decision": "reject",
+    "reason": "Полис неактивен",
+    "payout": 0
+  },
+  {
+    "id": 11,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 7280.0
+  },
+  {
+    "id": 12,
+    "decision": "manual_review",
+    "reason": "Нет документов",
+    "payout": 0
+  },
+  {
+    "id": 13,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 10400.0
+  },
+  {
+    "id": 14,
+    "decision": "reject",
+    "reason": "Полис неактивен",
+    "payout": 0
+  },
+  {
+    "id": 15,
+    "decision": "approve",
+    "reason": "Автоодобрение",
+    "payout": 57600.0
+  }
+]
